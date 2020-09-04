@@ -1,0 +1,384 @@
+2020-09-03 21:22:15,289  INFO [main] cucumberBDD:25 - ************* Launching Browser *****************
+2020-09-03 21:22:15,336  INFO [main] cucumberBDD:33 - ************* Opening URL  *****************
+2020-09-03 21:22:17,510  INFO [main] cucumberBDD:39 - ************* Prvding user and password *****************
+2020-09-03 21:22:17,792  INFO [main] cucumberBDD:46 - ************* click on login *****************
+2020-09-03 21:22:24,295  INFO [main] cucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-03 21:22:27,320  INFO [main] cucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-03 21:22:29,443  INFO [main] cucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-03 21:22:41,271  INFO [main] cucumberBDD:74 - ********* Saving customer details **************
+2020-09-03 21:22:45,265  INFO [main] cucumberBDD:64 - ************* cloding browser *****************
+2020-09-03 21:22:48,577  INFO [main] cucumberBDD:25 - ************* Launching Browser *****************
+2020-09-03 21:22:48,580  INFO [main] cucumberBDD:33 - ************* Opening URL  *****************
+2020-09-03 21:22:50,797  INFO [main] cucumberBDD:39 - ************* Prvding user and password *****************
+2020-09-03 21:22:51,049  INFO [main] cucumberBDD:46 - ************* click on login *****************
+2020-09-03 21:22:57,443  INFO [main] cucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-03 21:23:00,460  INFO [main] cucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-03 21:23:02,591  INFO [main] cucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-03 21:23:03,679  INFO [main] cucumberBDD:93 - ********* Searching customer details by Email **************
+2020-09-03 21:23:07,179  INFO [main] cucumberBDD:64 - ************* cloding browser *****************
+2020-09-03 21:23:10,479  INFO [main] cucumberBDD:25 - ************* Launching Browser *****************
+2020-09-03 21:23:10,484  INFO [main] cucumberBDD:33 - ************* Opening URL  *****************
+2020-09-03 21:23:12,753  INFO [main] cucumberBDD:39 - ************* Prvding user and password *****************
+2020-09-03 21:23:12,993  INFO [main] cucumberBDD:46 - ************* click on login *****************
+2020-09-03 21:23:19,620  INFO [main] cucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-03 21:23:22,630  INFO [main] cucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-03 21:23:24,749  INFO [main] cucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-03 21:23:25,963  INFO [main] cucumberBDD:116 - ********* Searching customer details by Name **************
+2020-09-03 21:23:29,525  INFO [main] cucumberBDD:64 - ************* cloding browser *****************
+2020-09-03 21:23:39,323  INFO [main] cucumberBDD:25 - ************* Launching Browser *****************
+2020-09-03 21:23:39,326  INFO [main] cucumberBDD:33 - ************* Opening URL  *****************
+2020-09-03 21:23:41,854  INFO [main] cucumberBDD:39 - ************* Prvding user and password *****************
+2020-09-03 21:23:42,189  INFO [main] cucumberBDD:46 - ************* click on login *****************
+2020-09-03 21:23:48,742  INFO [main] cucumberBDD:19 - ************* Login Passed *****************
+2020-09-03 21:23:51,762  INFO [main] cucumberBDD:58 - ************* clciking on logout *****************
+2020-09-03 21:23:55,898  INFO [main] cucumberBDD:19 - ************* Login Passed *****************
+2020-09-03 21:23:58,922  INFO [main] cucumberBDD:64 - ************* cloding browser *****************
+2020-09-03 21:24:02,264  INFO [main] cucumberBDD:25 - ************* Launching Browser *****************
+2020-09-03 21:24:02,267  INFO [main] cucumberBDD:33 - ************* Opening URL  *****************
+2020-09-03 21:24:04,606  INFO [main] cucumberBDD:39 - ************* Prvding user and password *****************
+2020-09-03 21:24:04,825  INFO [main] cucumberBDD:46 - ************* click on login *****************
+2020-09-03 21:24:11,917  INFO [main] cucumberBDD:19 - ************* Login Passed *****************
+2020-09-03 21:24:14,928  INFO [main] cucumberBDD:58 - ************* clciking on logout *****************
+2020-09-03 21:24:19,036  INFO [main] cucumberBDD:19 - ************* Login Passed *****************
+2020-09-03 21:24:22,049  INFO [main] cucumberBDD:64 - ************* cloding browser *****************
+2020-09-03 21:24:25,347  INFO [main] cucumberBDD:25 - ************* Launching Browser *****************
+2020-09-03 21:24:25,350  INFO [main] cucumberBDD:33 - ************* Opening URL  *****************
+2020-09-03 21:24:27,525  INFO [main] cucumberBDD:39 - ************* Prvding user and password *****************
+2020-09-03 21:24:27,825  INFO [main] cucumberBDD:46 - ************* click on login *****************
+2020-09-03 21:24:31,701  INFO [main] cucumberBDD:15 - ************* Login failed *****************
+2020-09-04 12:39:51,009  INFO [main] CucumberBDD:40 - ************* Launching logger *****************
+2020-09-04 12:39:54,669  INFO [main] CucumberBDD:43 - ************* Launching Browser *****************
+2020-09-04 12:39:54,689  INFO [main] CucumberBDD:51 - ************* Opening URL  *****************
+2020-09-04 12:39:56,294  INFO [main] CucumberBDD:57 - ************* Prvding user and password *****************
+2020-09-04 12:39:56,510  INFO [main] CucumberBDD:64 - ************* click on login *****************
+2020-09-04 12:40:02,282  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 12:40:05,308  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 12:40:07,377  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 12:40:17,757  INFO [main] CucumberBDD:74 - ********* Saving customer details **************
+2020-09-04 12:40:20,928  INFO [main] CucumberBDD:82 - ************* cloding browser *****************
+2020-09-04 12:40:21,026  INFO [main] CucumberBDD:40 - ************* Launching logger *****************
+2020-09-04 12:40:24,096  INFO [main] CucumberBDD:43 - ************* Launching Browser *****************
+2020-09-04 12:40:24,096  INFO [main] CucumberBDD:51 - ************* Opening URL  *****************
+2020-09-04 12:40:25,894  INFO [main] CucumberBDD:57 - ************* Prvding user and password *****************
+2020-09-04 12:40:26,122  INFO [main] CucumberBDD:64 - ************* click on login *****************
+2020-09-04 12:40:31,969  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 12:40:34,984  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 12:40:37,045  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 12:40:37,820  INFO [main] CucumberBDD:93 - ********* Searching customer details by Email **************
+2020-09-04 12:40:41,187  INFO [main] CucumberBDD:82 - ************* cloding browser *****************
+2020-09-04 12:40:41,273  INFO [main] CucumberBDD:40 - ************* Launching logger *****************
+2020-09-04 12:40:44,327  INFO [main] CucumberBDD:43 - ************* Launching Browser *****************
+2020-09-04 12:40:44,328  INFO [main] CucumberBDD:51 - ************* Opening URL  *****************
+2020-09-04 12:40:46,593  INFO [main] CucumberBDD:57 - ************* Prvding user and password *****************
+2020-09-04 12:40:46,803  INFO [main] CucumberBDD:64 - ************* click on login *****************
+2020-09-04 12:40:52,107  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 12:40:55,114  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 12:40:57,168  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 12:40:57,910  INFO [main] CucumberBDD:116 - ********* Searching customer details by Name **************
+2020-09-04 12:41:01,295  INFO [main] CucumberBDD:82 - ************* cloding browser *****************
+2020-09-04 12:43:52,907  INFO [main] CucumberBDD:41 - ************* Launching logger *****************
+2020-09-04 12:43:56,373  INFO [main] CucumberBDD:69 - ************* Launching Browser *****************
+2020-09-04 12:43:56,395  INFO [main] CucumberBDD:77 - ************* Opening URL  *****************
+2020-09-04 12:43:58,090  INFO [main] CucumberBDD:83 - ************* Prvding user and password *****************
+2020-09-04 12:43:58,284  INFO [main] CucumberBDD:90 - ************* click on login *****************
+2020-09-04 12:44:03,806  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 12:44:06,821  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 12:44:08,909  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 12:44:19,265  INFO [main] CucumberBDD:74 - ********* Saving customer details **************
+2020-09-04 12:44:22,443  INFO [main] CucumberBDD:108 - ************* cloding browser *****************
+2020-09-04 12:44:22,532  INFO [main] CucumberBDD:41 - ************* Launching logger *****************
+2020-09-04 12:44:25,603  INFO [main] CucumberBDD:69 - ************* Launching Browser *****************
+2020-09-04 12:44:25,604  INFO [main] CucumberBDD:77 - ************* Opening URL  *****************
+2020-09-04 12:44:27,518  INFO [main] CucumberBDD:83 - ************* Prvding user and password *****************
+2020-09-04 12:44:27,710  INFO [main] CucumberBDD:90 - ************* click on login *****************
+2020-09-04 12:44:33,005  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 12:44:36,019  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 12:44:38,084  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 12:44:38,943  INFO [main] CucumberBDD:93 - ********* Searching customer details by Email **************
+2020-09-04 12:44:42,209  INFO [main] CucumberBDD:108 - ************* cloding browser *****************
+2020-09-04 12:44:42,299  INFO [main] CucumberBDD:41 - ************* Launching logger *****************
+2020-09-04 12:44:45,389  INFO [main] CucumberBDD:69 - ************* Launching Browser *****************
+2020-09-04 12:44:45,390  INFO [main] CucumberBDD:77 - ************* Opening URL  *****************
+2020-09-04 12:44:47,085  INFO [main] CucumberBDD:83 - ************* Prvding user and password *****************
+2020-09-04 12:44:47,264  INFO [main] CucumberBDD:90 - ************* click on login *****************
+2020-09-04 12:44:53,090  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 12:44:56,100  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 12:44:58,152  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 12:44:58,904  INFO [main] CucumberBDD:116 - ********* Searching customer details by Name **************
+2020-09-04 12:45:02,307  INFO [main] CucumberBDD:108 - ************* cloding browser *****************
+2020-09-04 12:51:37,525  INFO [main] CucumberBDD:40 - ************* Launching logger *****************
+2020-09-04 12:51:41,002  INFO [main] CucumberBDD:68 - ************* Launching Browser *****************
+2020-09-04 12:51:41,016  INFO [main] CucumberBDD:76 - ************* Opening URL  *****************
+2020-09-04 12:51:42,737  INFO [main] CucumberBDD:82 - ************* Prvding user and password *****************
+2020-09-04 12:51:42,928  INFO [main] CucumberBDD:89 - ************* click on login *****************
+2020-09-04 12:51:48,375  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 12:51:51,398  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 12:51:53,481  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 12:52:03,836  INFO [main] CucumberBDD:74 - ********* Saving customer details **************
+2020-09-04 12:52:06,959  INFO [main] CucumberBDD:107 - ************* cloding browser *****************
+2020-09-04 12:52:07,055  INFO [main] CucumberBDD:40 - ************* Launching logger *****************
+2020-09-04 12:52:10,134  INFO [main] CucumberBDD:68 - ************* Launching Browser *****************
+2020-09-04 12:52:10,136  INFO [main] CucumberBDD:76 - ************* Opening URL  *****************
+2020-09-04 12:52:11,766  INFO [main] CucumberBDD:82 - ************* Prvding user and password *****************
+2020-09-04 12:52:11,940  INFO [main] CucumberBDD:89 - ************* click on login *****************
+2020-09-04 12:52:17,798  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 12:52:20,806  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 12:52:22,863  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 12:52:23,616  INFO [main] CucumberBDD:93 - ********* Searching customer details by Email **************
+2020-09-04 12:52:26,885  INFO [main] CucumberBDD:107 - ************* cloding browser *****************
+2020-09-04 12:52:26,974  INFO [main] CucumberBDD:40 - ************* Launching logger *****************
+2020-09-04 12:52:30,011  INFO [main] CucumberBDD:68 - ************* Launching Browser *****************
+2020-09-04 12:52:30,012  INFO [main] CucumberBDD:76 - ************* Opening URL  *****************
+2020-09-04 12:52:31,669  INFO [main] CucumberBDD:82 - ************* Prvding user and password *****************
+2020-09-04 12:52:31,854  INFO [main] CucumberBDD:89 - ************* click on login *****************
+2020-09-04 12:52:36,984  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 12:52:39,995  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 12:52:42,048  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 12:52:42,807  INFO [main] CucumberBDD:116 - ********* Searching customer details by Name **************
+2020-09-04 12:52:46,190  INFO [main] CucumberBDD:107 - ************* cloding browser *****************
+2020-09-04 12:55:33,876  INFO [main] CucumberBDD:66 - ************* Launching Browser *****************
+2020-09-04 12:55:33,900  INFO [main] CucumberBDD:74 - ************* Opening URL  *****************
+2020-09-04 12:55:35,059  INFO [main] CucumberBDD:80 - ************* Prvding user and password *****************
+2020-09-04 12:55:35,207  INFO [main] CucumberBDD:87 - ************* click on login *****************
+2020-09-04 12:55:40,671  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 12:55:43,684  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 12:55:45,956  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 12:55:52,695  INFO [main] CucumberBDD:66 - ************* Launching Browser *****************
+2020-09-04 12:55:52,699  INFO [main] CucumberBDD:74 - ************* Opening URL  *****************
+2020-09-04 12:55:53,819  INFO [main] CucumberBDD:80 - ************* Prvding user and password *****************
+2020-09-04 12:55:53,947  INFO [main] CucumberBDD:87 - ************* click on login *****************
+2020-09-04 12:56:00,520  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 12:56:03,529  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 12:56:05,810  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 12:56:06,392  INFO [main] CucumberBDD:93 - ********* Searching customer details by Email **************
+2020-09-04 12:56:10,408  INFO [main] CucumberBDD:105 - ************* cloding browser *****************
+2020-09-04 12:56:14,359  INFO [main] CucumberBDD:66 - ************* Launching Browser *****************
+2020-09-04 12:56:14,361  INFO [main] CucumberBDD:74 - ************* Opening URL  *****************
+2020-09-04 12:56:15,424  INFO [main] CucumberBDD:80 - ************* Prvding user and password *****************
+2020-09-04 12:56:15,554  INFO [main] CucumberBDD:87 - ************* click on login *****************
+2020-09-04 12:56:20,890  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 12:56:23,902  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 12:56:26,156  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 12:56:26,705  INFO [main] CucumberBDD:116 - ********* Searching customer details by Name **************
+2020-09-04 12:56:30,752  INFO [main] CucumberBDD:105 - ************* cloding browser *****************
+2020-09-04 13:05:05,940  INFO [main] CucumberBDD:66 - ************* Launching Browser *****************
+2020-09-04 13:05:05,971  INFO [main] CucumberBDD:74 - ************* Opening URL  *****************
+2020-09-04 13:05:07,174  INFO [main] CucumberBDD:80 - ************* Prvding user and password *****************
+2020-09-04 13:05:07,282  INFO [main] CucumberBDD:87 - ************* click on login *****************
+2020-09-04 13:05:13,648  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 13:05:16,665  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 13:05:18,926  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 13:05:25,051  INFO [main] CucumberBDD:66 - ************* Launching Browser *****************
+2020-09-04 13:05:25,057  INFO [main] CucumberBDD:74 - ************* Opening URL  *****************
+2020-09-04 13:05:26,158  INFO [main] CucumberBDD:80 - ************* Prvding user and password *****************
+2020-09-04 13:05:26,267  INFO [main] CucumberBDD:87 - ************* click on login *****************
+2020-09-04 13:05:32,755  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 13:05:35,766  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 13:05:38,032  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 13:05:38,783  INFO [main] CucumberBDD:93 - ********* Searching customer details by Email **************
+2020-09-04 13:05:42,736  INFO [main] CucumberBDD:105 - ************* cloding browser *****************
+2020-09-04 13:05:45,989  INFO [main] CucumberBDD:66 - ************* Launching Browser *****************
+2020-09-04 13:05:45,990  INFO [main] CucumberBDD:74 - ************* Opening URL  *****************
+2020-09-04 13:05:47,093  INFO [main] CucumberBDD:80 - ************* Prvding user and password *****************
+2020-09-04 13:05:47,194  INFO [main] CucumberBDD:87 - ************* click on login *****************
+2020-09-04 13:05:53,500  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 13:05:56,509  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 13:05:58,751  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 13:05:59,254  INFO [main] CucumberBDD:116 - ********* Searching customer details by Name **************
+2020-09-04 13:06:03,251  INFO [main] CucumberBDD:105 - ************* cloding browser *****************
+2020-09-04 13:08:50,402  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 13:08:50,418  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 13:08:52,026  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 13:08:52,225  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 13:08:57,491  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 13:09:00,512  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 13:09:02,579  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 13:09:09,476  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 13:09:09,479  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 13:09:11,324  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 13:09:11,516  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 13:09:16,637  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 13:09:19,654  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 13:09:21,730  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 13:09:22,521  INFO [main] CucumberBDD:93 - ********* Searching customer details by Email **************
+2020-09-04 13:09:25,852  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 13:09:29,010  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 13:09:29,012  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 13:09:30,713  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 13:09:30,913  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 13:09:36,431  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 13:09:39,445  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 13:09:41,509  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 13:09:42,291  INFO [main] CucumberBDD:116 - ********* Searching customer details by Name **************
+2020-09-04 13:09:45,704  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 13:11:46,482  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 13:11:46,501  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 13:11:48,153  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 13:11:48,371  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 13:11:53,700  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 13:11:56,722  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 13:11:58,820  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 13:12:09,159  INFO [main] CucumberBDD:74 - ********* Saving customer details **************
+2020-09-04 13:12:12,412  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 13:12:15,598  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 13:12:15,601  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 13:12:17,328  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 13:12:17,509  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 13:12:22,792  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 13:12:25,801  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 13:12:27,863  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 13:12:28,637  INFO [main] CucumberBDD:93 - ********* Searching customer details by Email **************
+2020-09-04 13:12:31,932  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 13:12:35,060  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 13:12:35,061  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 13:12:36,762  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 13:12:36,938  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 13:12:42,495  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 13:12:45,500  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 13:12:47,564  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 13:12:48,305  INFO [main] CucumberBDD:116 - ********* Searching customer details by Name **************
+2020-09-04 13:12:51,687  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 15:28:11,781  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 15:28:11,808  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 15:28:14,001  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 15:28:14,207  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 15:28:25,745  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 15:28:28,771  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 15:28:30,845  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 15:28:43,494  INFO [main] CucumberBDD:74 - ********* Saving customer details **************
+2020-09-04 15:28:47,200  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 15:28:50,354  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 15:28:50,357  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 15:28:52,152  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 15:28:52,355  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 15:28:58,282  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 15:29:01,293  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 15:29:03,349  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 15:29:04,124  INFO [main] CucumberBDD:93 - ********* Searching customer details by Email **************
+2020-09-04 15:29:07,395  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 15:29:10,608  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 15:29:10,610  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 15:29:12,340  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 15:29:12,521  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 15:29:18,222  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 15:29:21,233  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 15:29:23,294  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 15:29:24,113  INFO [main] CucumberBDD:116 - ********* Searching customer details by Name **************
+2020-09-04 15:29:27,502  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 15:29:36,022  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 15:29:36,023  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 15:29:37,775  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 15:29:37,951  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 15:29:43,498  INFO [main] CucumberBDD:19 - ************* Login Passed *****************
+2020-09-04 15:29:46,521  INFO [main] CucumberBDD:100 - ************* clciking on logout *****************
+2020-09-04 15:29:50,406  INFO [main] CucumberBDD:19 - ************* Login Passed *****************
+2020-09-04 15:29:53,420  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 15:29:56,568  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 15:29:56,569  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 15:29:58,262  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 15:29:58,436  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 15:30:03,800  INFO [main] CucumberBDD:19 - ************* Login Passed *****************
+2020-09-04 15:30:06,807  INFO [main] CucumberBDD:100 - ************* clciking on logout *****************
+2020-09-04 15:30:10,685  INFO [main] CucumberBDD:19 - ************* Login Passed *****************
+2020-09-04 15:30:13,693  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 15:30:16,816  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 15:30:16,818  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 15:30:18,584  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 15:30:18,777  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 15:30:22,484  INFO [main] CucumberBDD:15 - ************* Login failed *****************
+2020-09-04 15:40:06,370  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 15:40:06,409  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 15:40:08,135  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 15:40:08,350  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 15:40:14,541  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 15:40:17,557  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 15:40:19,632  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 15:40:30,186  INFO [main] CucumberBDD:74 - ********* Saving customer details **************
+2020-09-04 15:40:33,358  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 15:40:36,595  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 15:40:36,600  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 15:40:38,219  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 15:40:38,397  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 15:40:43,504  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 15:40:46,515  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 15:40:48,583  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 15:40:49,356  INFO [main] CucumberBDD:93 - ********* Searching customer details by Email **************
+2020-09-04 15:40:52,728  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 15:40:55,947  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 15:40:55,949  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 15:40:57,712  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 15:40:57,888  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 15:41:03,111  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 15:41:06,122  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 15:41:08,195  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 15:41:09,005  INFO [main] CucumberBDD:116 - ********* Searching customer details by Name **************
+2020-09-04 15:41:12,391  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 15:41:20,544  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 15:41:20,546  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 15:41:22,168  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 15:41:22,349  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 15:41:28,072  INFO [main] CucumberBDD:19 - ************* Login Passed *****************
+2020-09-04 15:41:31,081  INFO [main] CucumberBDD:100 - ************* clciking on logout *****************
+2020-09-04 15:41:34,957  INFO [main] CucumberBDD:19 - ************* Login Passed *****************
+2020-09-04 15:41:37,978  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 15:41:41,145  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 15:41:41,146  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 15:41:42,758  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 15:41:42,955  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 15:41:48,696  INFO [main] CucumberBDD:19 - ************* Login Passed *****************
+2020-09-04 15:41:51,706  INFO [main] CucumberBDD:100 - ************* clciking on logout *****************
+2020-09-04 15:41:55,534  INFO [main] CucumberBDD:19 - ************* Login Passed *****************
+2020-09-04 15:41:58,540  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 15:42:01,671  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 15:42:01,672  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 15:42:03,383  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 15:42:03,572  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 15:42:07,149  INFO [main] CucumberBDD:15 - ************* Login failed *****************
+2020-09-04 16:09:16,051  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 16:09:16,066  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 16:09:17,916  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 16:09:18,104  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 16:09:23,631  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 16:09:26,654  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 16:09:28,752  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 16:09:39,368  INFO [main] CucumberBDD:74 - ********* Saving customer details **************
+2020-09-04 16:09:42,475  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 16:09:50,080  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 16:09:50,082  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 16:09:51,812  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 16:09:51,973  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 16:09:57,478  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 16:10:00,494  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 16:10:02,569  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 16:10:03,416  INFO [main] CucumberBDD:93 - ********* Searching customer details by Email **************
+2020-09-04 16:10:06,799  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 16:10:09,984  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 16:10:09,987  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 16:10:11,663  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 16:10:11,850  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 16:10:17,862  INFO [main] CucumberBDD:14 - ********* Verifying Dashboad page title after login successful **************
+2020-09-04 16:10:20,876  INFO [main] CucumberBDD:23 - ********* Clicking on customer main menu **************
+2020-09-04 16:10:22,950  INFO [main] CucumberBDD:32 - ********* Clicking on customer sub menu **************
+2020-09-04 16:10:24,052  INFO [main] CucumberBDD:116 - ********* Searching customer details by Name **************
+2020-09-04 16:10:27,464  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 16:10:35,905  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 16:10:35,906  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 16:10:37,288  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 16:10:37,464  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 16:10:42,406  INFO [main] CucumberBDD:19 - ************* Login Passed *****************
+2020-09-04 16:10:45,422  INFO [main] CucumberBDD:100 - ************* clciking on logout *****************
+2020-09-04 16:10:49,294  INFO [main] CucumberBDD:19 - ************* Login Passed *****************
+2020-09-04 16:10:52,315  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 16:10:55,427  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 16:10:55,429  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 16:10:57,126  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 16:10:57,310  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 16:11:02,977  INFO [main] CucumberBDD:19 - ************* Login Passed *****************
+2020-09-04 16:11:05,985  INFO [main] CucumberBDD:100 - ************* clciking on logout *****************
+2020-09-04 16:11:09,803  INFO [main] CucumberBDD:19 - ************* Login Passed *****************
+2020-09-04 16:11:12,813  INFO [main] CucumberBDD:106 - ************* cloding browser *****************
+2020-09-04 16:11:15,932  INFO [main] CucumberBDD:67 - ************* Launching Browser *****************
+2020-09-04 16:11:15,933  INFO [main] CucumberBDD:75 - ************* Opening URL  *****************
+2020-09-04 16:11:17,642  INFO [main] CucumberBDD:81 - ************* Prvding user and password *****************
+2020-09-04 16:11:17,806  INFO [main] CucumberBDD:88 - ************* click on login *****************
+2020-09-04 16:11:21,434  INFO [main] CucumberBDD:15 - ************* Login failed *****************
